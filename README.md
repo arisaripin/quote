@@ -1,0 +1,3 @@
+# Quote
+### *Collection of quote*
+*A quote is a phrase or a passage that has been borrowed or taken from someone else's work, speech, or writing. It is often used to emphasize or reinforce a particular idea or concept, to provide evidence or support for a point of view, or to add depth and nuance to a written or spoken communication. Quotes can come from a wide range of sources, including literature, history, science, politics, philosophy, and religion. They can be short or long, humorous or serious, and can convey a wide range of emotions and attitudes. In many cases, quotes are used to give credit to the original source and to acknowledge the influence of other writers and thinkers on our own ideas and expressions.*
